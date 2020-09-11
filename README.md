@@ -22,23 +22,23 @@
                     <div class="single-team-member wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Image -->
                         <div class="team-member-thumb">
-                            <img src="img/members/1.jpg" class="center-block" alt="Ankit Warbhe" height="180" width="144">
+                            <img src="img/members/YOUR IMAGE.jpg" class="center-block" alt="YOUR NAME" height="180" width="144">
                         </div>
                         <!-- Team Info -->
                         <div class="team-info">
-                            <h5>Ankit Warbhe</h5>
+                            <h5>YOUR NAME</h5>
                             <p>Member</p>
                         </div>
                         <!-- Social Icon -->
                         <div class="team-social-icon">
-                            <a href="https://twitter.com/AnkitWarbhe"><i class="fa fa-twitter"></i></a>
-                            <a href="https://www.instagram.com/ankit.warbhe/"><i class="fa fa-instagram"></i></a>
-                            <a href="https://www.facebook.com/ankit.warbhe.969/"><i class="fa fa-facebook"></i></a>
+                            <a href="TWITTER URL"><i class="fa fa-twitter"></i></a>
+                            <a href="INSTAGRAM URL"><i class="fa fa-instagram"></i></a>
+                            <a href="FACEBOOK URL"><i class="fa fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
 ```
-3. Add your Image in members Folder ie. 1.jpg
+3. Add your Image in members Folder ie. YOUR NAME.jpg
 4. Commit and pull request with us at **30-Days-Coding/Members-30dayscoding**
 
 ## Contributing
