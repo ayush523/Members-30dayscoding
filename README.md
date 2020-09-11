@@ -22,7 +22,7 @@
                     <div class="single-team-member wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Image -->
                         <div class="team-member-thumb">
-                            <img src="img/members/YOUR IMAGE.jpg" class="center-block" alt="YOUR NAME" height="180" width="144">
+                            <img src="img/members/YOUR IMAGE.jpg" class="center-block" alt="YOUR NAME" height="100" width="100">
                         </div>
                         <!-- Team Info -->
                         <div class="team-info">
