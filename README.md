@@ -1,4 +1,4 @@
-# Join 30 Days Coding
+# Join 30 Days Coding [![Netlify Status](https://api.netlify.com/api/v1/badges/1fbcaad3-9aec-444d-b04f-e87454150e99/deploy-status)](https://app.netlify.com/sites/join30dayscoding/deploys)
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://30dayscoding.zulipchat.com/)
 
