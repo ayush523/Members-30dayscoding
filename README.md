@@ -1,5 +1,7 @@
 # Join 30 Days Coding
 
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://30dayscoding.zulipchat.com/)
+
 30 Days coding is a non-commercial open-source organisation with a goal to provide resource for programmers and developers.
 
 ## Set Up
