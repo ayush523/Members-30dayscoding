@@ -1,8 +1,6 @@
 # Contributing
 
-Thank you for considering and becoming the time member!
-
-The following are guidelines for contributing to this project.
+Thank you for considering and becoming a member!
 
 ## How to Report Bugs
 
