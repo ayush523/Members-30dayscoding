@@ -13,31 +13,33 @@
 ## Steps to become a member
 
 1. Open Index.html in text editor(ATOM ❤)
-2. Navigate to <!- Member area Start -> ie. Line 61 
+2. Navigate to <!- Team Area Start -> Section ie. Line 115 
 
 3. Add you own Code
 ```
-    <!-- Member  -->
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-speaker-inner">
-                        <ul class="social">
-                            <li><a href="https://www.facebook.com/ankit.warbhe.969/"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/AnkitWarbhe"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.instagram.com/ankit.warbhe/"><i class="fa fa-instagram"></i></a></li>
-                        </ul>
-                        <div class="thumb">
-                            <img src="assets/img/speaker/ankit.jpg" alt="Ankit Warbhe">
+    <!-- Single Team Member -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-member wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- Image -->
+                        <div class="team-member-thumb">
+                            <img src="img/members/1.jpg" class="center-block" alt="Ankit Warbhe" height="180" width="144">
                         </div>
-                        <div class="details">
-                            <h4>Ankit Warbhe</h4>
-                            <p>Student</p>
+                        <!-- Team Info -->
+                        <div class="team-info">
+                            <h5>Ankit Warbhe</h5>
+                            <p>Member</p>
+                        </div>
+                        <!-- Social Icon -->
+                        <div class="team-social-icon">
+                            <a href="https://twitter.com/AnkitWarbhe"><i class="fa fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/ankit.warbhe/"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/ankit.warbhe.969/"><i class="fa fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
-                <!-- Member  -->
 ```
-
-3. Commit and pull request with us at **30-Days-Coding/Members-30dayscoding**
+3. Add your Image in members Folder ie. 1.jpg
+4. Commit and pull request with us at **30-Days-Coding/Members-30dayscoding**
 
 ## Contributing
 
