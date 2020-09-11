@@ -13,9 +13,9 @@
 ## Steps to become a member
 
 1. Open Index.html in text editor(ATOM ❤)
-2. Navigate to <!- Team Area Start -> Section ie. Line 115 
+2. Navigate to <!- Team Area Start -> Section 
 
-3. Add you own Code
+3. Add you own Code below the previous member code
 ```
     <!-- Single Team Member -->
                 <div class="col-12 col-sm-6 col-lg-3">
