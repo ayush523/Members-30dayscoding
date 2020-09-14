@@ -1,6 +1,6 @@
 # Join 30 Days Coding 
 
-[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://30dayscoding.zulipchat.com/)
+https://img.shields.io/discord/754727883754176614?logo=30%20Days%20Coding&style=plastic
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1fbcaad3-9aec-444d-b04f-e87454150e99/deploy-status)](https://app.netlify.com/sites/join30dayscoding/deploys)
 
 30 Days coding is a non-commercial open-source organisation with a goal to provide resource for programmers and developers.
